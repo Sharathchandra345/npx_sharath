@@ -1,0 +1,29 @@
+{
+  "name": "sharath",
+  "version": "1.1.4",
+  "description": "Just my Card Package",
+  "main": "/bin/card.js",
+  "bin": {
+    "sharath": "bin/card.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sharathchandra345/npx-sharath.git"
+  },
+  "keywords": [
+    "card"
+  ],
+  "author": "sharath chandra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sharathchandra345/npx-sharath/issues"
+  },
+  "homepage": "https://github.com/Sharathchandra345/npx-sharath#readme",
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^5.3.0"
+  }
+}
